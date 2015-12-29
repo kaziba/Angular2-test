@@ -41,7 +41,11 @@ Think carefully about where and when to register a provider. Understand the scop
 
 <script async class="speakerdeck-embed" data-id="16d2fc71c92e43efb9fa76e2264883dd" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+> <a href="https://speakerdeck.com/armorik83/angular-2-zui-xin-ririsuwoshi-sitemita" target="_blank">Angular 2 最新リリースを試してみた // Speaker Deck</a>
+
 <script async class="speakerdeck-embed" data-id="6bf0c89c81364e4bbd2d2ddf4d92763c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+> <a href="https://speakerdeck.com/kiharu/angular2" target="_blank">15分で分かったつもりになるAngular 2 概要/angular2 // Speaker Deck</a>
 
 ## TypeScript
 
